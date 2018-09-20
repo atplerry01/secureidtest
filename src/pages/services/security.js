@@ -40,7 +40,7 @@ class Security extends Component {
                                     data-vc-container=".vc_tta"
                                   >
                                     <span className="vc_tta-title-text">
-                                      SIM Personalization
+                                      SIM Manufacturing & Personalization
                                     </span>
                                   </a>
                                 </li>
@@ -82,97 +82,80 @@ class Security extends Component {
                                     <div className="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1487333607675">
                                       <div className="wpb_column vc_column_container vc_col-sm-4">
                                         <div className="vc_column-inner ">
-                                          <div className="wpb_wrapper">
-                                            <div className="mgt-header-block clearfix text-left text-black wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft wpb_content_element  mgt-header-block-style-2 mgt-header-block-fontsize-medium mgt-header-texttransform-none mgt-header-block-3957370  vc_custom_1496224728514">
-                                              <h2 className="mgt-header-block-title text-font-weight-default">
-                                                SIM Personalisation
+                                        <div className="wpb_wrapper">
+                                          <div className="mgt-icon-box wpb_content_element wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp mgt-icon-box-right mgt-icon-box-icon-size-large mgt-icon-box-54597719 mgt-icon-font text-black  vc_custom_1498842294061">
+                                            <div className="mgt-icon-box-icon hvr-icon-wobble-horizontal">
+                                              
+                                            </div>
+                                            <div className="mgt-icon-box-content">
+                                              
+                                              <h2 className="text-font-weight-bold">
+                                                SIM Manufacturing
                                               </h2>
+                                              All of our Sim Card manufacturing processes are performed in-house powered by the most advanced technology available in the industry. Our plant specializes in the production of all types of plastic cards including Sim Cards.
+
+                                              <br/>
+
+
                                             </div>
-                                            <div className="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft text-size-medium">
-                                              <div className="wpb_wrapper">
-                                                <p>
-                                                  I firmly believe that any
-                                                  man&#8217;s finest hour, the
-                                                  greatest fulfillment of all
-                                                  that he holds dear, is that
-                                                  moment when he has worked his
-                                                  heart out in a good cause and
-                                                  lies exhausted on the field of
-                                                  battle &#8211; victorious.
-                                                </p>
-                                              </div>
-                                            </div>
-                                            <div className="mgt-button-wrapper mgt-button-wrapper-align-center mgt-button-wrapper-display-inline mgt-button-top-margin-false mgt-button-right-margin-false mgt-button-round-edges-small  wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft">
-                                              <a
-                                                className="btn hvr-icon-wobble-horizontal mgt-button-icon-true mgt-button mgt-style-solid mgt-size-normal mgt-align-center mgt-display-inline mgt-text-size-small mgt-button-icon-separator-true mgt-button-icon-position-right text-font-weight-default mgt-text-transform-none"
-                                                href="http://wp.magnium-themes.com/barrel/barrel-1/about-classic/"
-                                              >
-                                                Read more
-                                                <i className="entypo-icon entypo-icon-right-open" />
-                                              </a>
-                                            </div>
+                                            <div className="clearfix" />
                                           </div>
+                                
+                                          <div className="mgt-icon-box wpb_content_element wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp mgt-icon-box-right mgt-icon-box-icon-size-large mgt-icon-box-47127586 mgt-icon-font text-black  vc_custom_1498842304940">
+                                            <div className="mgt-icon-box-icon hvr-icon-wobble-horizontal">
+                                              
+                                            </div>
+                                            <div className="mgt-icon-box-content">
+                                              
+                                              We offer our clients the most advanced solutions based on smart-cards:
+  Different implementations of SIM-cards electronic profiles: 2G(SIM), 3G(USIM), 4G(LTE), including the development of a wide range of program applications.
+
+                                            </div>
+                                            <div className="clearfix" />
+                                          </div>
+                                        
                                         </div>
                                       </div>
+                                      </div>
+
+                                      <div className="wpb_column vc_column_container vc_col-sm-4">
+                                        <div className="vc_column-inner ">
+                                        <div className="wpb_wrapper">
+                                          <div className="mgt-icon-box wpb_content_element wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp mgt-icon-box-right mgt-icon-box-icon-size-large mgt-icon-box-54597719 mgt-icon-font text-black  vc_custom_1498842294061">
+                                            <div className="mgt-icon-box-icon hvr-icon-wobble-horizontal">
+                                              
+                                            </div>
+                                            <div className="mgt-icon-box-content">
+                                              
+                                              <h2 className="text-font-weight-bold">
+                                                SIM Personalization
+                                              </h2>
+                                              Secure ID has a long term experience in card personalization and a strong partnership for Chip Technology with a world renowned smart card and solution providers.
+                                              <br/>
+
+
+                                            </div>
+                                            <div className="clearfix" />
+                                          </div>
+                                
+                                          <div className="mgt-icon-box wpb_content_element wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp mgt-icon-box-right mgt-icon-box-icon-size-large mgt-icon-box-47127586 mgt-icon-font text-black  vc_custom_1498842304940">
+                                            <div className="mgt-icon-box-icon hvr-icon-wobble-horizontal">
+                                              
+                                            </div>
+                                            <div className="mgt-icon-box-content">
+                                            Our Sim personalization supports Multifunctional SIM-cards based on UICC modules that can contain either traditional GSM applications or other applications enhancing the capacities of mobile phones.
+                                            </div>
+                                            <div className="clearfix" />
+                                          </div>
+                                        
+                                        </div>
+                                      </div>
+                                      </div>
+
+                                      
                                       <div className="wpb_column vc_column_container vc_col-sm-4">
                                         <div className="vc_column-inner ">
                                           <div className="wpb_wrapper">
-                                            <div className="mgt-icon-box wpb_content_element wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp mgt-icon-box-right mgt-icon-box-icon-size-large mgt-icon-box-54597719 mgt-icon-font text-black  vc_custom_1498842294061">
-                                              <div className="mgt-icon-box-icon hvr-icon-wobble-horizontal">
-                                                <i className="mgt-font-icon vc_li vc_li-vallet" />
-                                              </div>
-                                              <div className="mgt-icon-box-content">
-                                                <h5 className="text-font-weight-bold">
-                                                  Innovation
-                                                </h5>With detailed
-                                                documentation, a theme
-                                                installation video guide, free
-                                                Updates and dedicated support in
-                                                Ticket System
-                                              </div>
-                                              <div className="clearfix" />
-                                            </div>
-                                            {/*
-                                                                            <style scoped='scoped'>
-                                                                                .mgt-icon-box-54597719.mgt-icon-box .mgt-icon-box-icon {
-                                                                                    color: #2d9aec !important;
-                                                                                }
-                                                                            </style>
-                                                                            */}
-                                            <div className="mgt-icon-box wpb_content_element wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp mgt-icon-box-right mgt-icon-box-icon-size-large mgt-icon-box-47127586 mgt-icon-font text-black  vc_custom_1498842304940">
-                                              <div className="mgt-icon-box-icon hvr-icon-wobble-horizontal">
-                                                <i className="mgt-font-icon vc_li vc_li-settings" />
-                                              </div>
-                                              <div className="mgt-icon-box-content">
-                                                <h5 className="text-font-weight-bold">
-                                                  Card Manufacturing
-                                                </h5>Well documented, full
-                                                installation and configuration
-                                                guide included with Barrel. Step
-                                                by step &amp; easy to follow
-                                              </div>
-                                              <div className="clearfix" />
-                                            </div>
-                                            {/*
-                                                                            <style scoped='scoped'>
-                                                                                .mgt-icon-box-47127586.mgt-icon-box .mgt-icon-box-icon {
-                                                                                    color: #75ceae !important;
-                                                                                }
-                                                                            </style>
-                                                                            */}
-                                          </div>
-                                        </div>
-                                      </div>
-                                      <div className="wpb_column vc_column_container vc_col-sm-4">
-                                        <div className="vc_column-inner ">
-                                          <div className="wpb_wrapper">
-                                            {/*
-                                                                            <style scoped='scoped'>
-                                                                                .mgt-promo-block-74695761.mgt-promo-block.animated:hover .mgt-promo-block-content {
-                                                                                    background-color: rgba(37, 42, 45, 0.52) !important;
-                                                                                }
-                                                                            </style>
-                                                                            */}
                                             <div className="mgt-promo-block-container wpb_content_element wpb_animate_when_almost_visible wpb_fadeInRight fadeInRight">
                                               <div className="mgt-promo-block-wrapper  mgt-promo-block-shadow">
                                                 <div
@@ -210,7 +193,7 @@ class Security extends Component {
                                     </h4>
                                   </div>
                                   <div className="vc_tta-panel-body">
-                                    <div className="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1487333607675">
+                                    <div className="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1487333607675X">
                                       <div className="wpb_column vc_column_container vc_col-sm-4">
                                         <div className="vc_column-inner ">
                                           <div className="wpb_wrapper">
@@ -522,26 +505,11 @@ class Security extends Component {
                                             <div className="wpb_text_column wpb_content_element  text-size-medium">
                                               <div className="wpb_wrapper">
                                                 <p>
-                                                  I firmly believe that any
-                                                  man&#8217;s finest hour, the
-                                                  greatest fulfillment of all
-                                                  that he holds dear, is that
-                                                  moment when he has worked his
-                                                  heart out in a good cause and
-                                                  lies exhausted on the field of
-                                                  battle &#8211; victorious.
+                                                We offer the very best in SIM packaging, with the most advanced packaging technologies and techniques in the industry.
                                                 </p>
                                               </div>
                                             </div>
-                                            <div className="mgt-button-wrapper mgt-button-wrapper-align-center mgt-button-wrapper-display-inline mgt-button-top-margin-false mgt-button-right-margin-false mgt-button-round-edges-small ">
-                                              <a
-                                                className="btn hvr-default mgt-button-icon-true mgt-button mgt-style-solid mgt-size-normal mgt-align-center mgt-display-inline mgt-text-size-small mgt-button-icon-separator-true mgt-button-icon-position-right text-font-weight-default mgt-text-transform-none"
-                                                href="#"
-                                              >
-                                                Read more
-                                                <i className="entypo-icon entypo-icon-right-open" />
-                                              </a>
-                                            </div>
+                                          
                                           </div>
                                         </div>
                                       </div>
@@ -550,35 +518,35 @@ class Security extends Component {
                                           <div className="wpb_wrapper">
                                             <div className="mgt-icon-box wpb_content_element mgt-icon-box-right mgt-icon-box-icon-size-large mgt-icon-box-8670855 mgt-icon-font text-black  vc_custom_1487701807718">
                                               <div className="mgt-icon-box-icon hvr-icon-wobble-horizontal">
-                                                <i className="mgt-font-icon vc_li vc_li-vallet" />
+                                                
                                               </div>
                                               <div className="mgt-icon-box-content">
                                                 <h5 className="text-font-weight-bold">
-                                                  Innovation
-                                                </h5>SecureID Limited alongside
-                                                its subsidiary SecureCard
-                                                Manufacturing is Africa’s
-                                                leading Card manufacturing
+                                                Flow Wrapping
+                                                </h5>
+                                                
+                                                SIM card wrapped in BOPP film with appropriate perforation along with user guide folded in to card size along with any other material required. Appropriate label will be provided for the pack with barcode.
+
+                                                <br /> <br/>
+                                                Standard user guide is with close size of 50 mm X 85 mm and open size of 85 mm X 650 mm printed on 100 GSM art paper in 4 colors as the design required by the customer with appropriate folding.
+
                                               </div>
                                               <div className="clearfix" />
                                             </div>
-                                            {/*
-                                                                            <style scoped='scoped'>
-                                                                                .mgt-icon-box-8670855.mgt-icon-box .mgt-icon-box-icon {
-                                                                                    color: #2d9aec !important;
-                                                                                }
-                                                                            </style>*/}
+                                           
                                             <div className="mgt-icon-box wpb_content_element mgt-icon-box-right mgt-icon-box-icon-size-large mgt-icon-box-30436394 mgt-icon-font text-black  vc_custom_1487701817110">
                                               <div className="mgt-icon-box-icon hvr-icon-wobble-horizontal">
-                                                <i className="mgt-font-icon vc_li vc_li-settings" />
+                                                
                                               </div>
                                               <div className="mgt-icon-box-content">
                                                 <h5 className="text-font-weight-bold">
-                                                  Card Manufacturing
-                                                </h5>SecureID Limited alongside
-                                                its subsidiary SecureCard
-                                                Manufacturing is Africa’s
-                                                leading Card manufacturing
+                                                Alternate Proposals
+                                                </h5>
+                                                
+                                                SIM card along with user guide folded in to card size inserted in a Paper jacket and sealed with tamper proof stocker. Appropriate label will be provided for the pack with barcode.
+Paper jacket will be of 62 mm X 92 mm close size and 62 mm X 200 mm open size in 300 GSM board with design printed in 4x4 color.
+
+
                                               </div>
                                               <div className="clearfix" />
                                             </div>

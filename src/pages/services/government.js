@@ -347,23 +347,36 @@ Our passports come in both Polycarbonate and Paper based ID page.
                                             <div className="wpb_text_column wpb_content_element  text-size-medium">
                                               <div className="wpb_wrapper">
                                                 <p>
-                                                  With the ever evolving threats
-                                                  of electoral fraud, SecureID
-                                                  is the answer to secure
-                                                  electoral documents.
-                                                  SecureID's preferred solution
-                                                  of the voter's card is to
-                                                  allow each bonafide voter get
-                                                  a Secure voter's card encoded
-                                                  with the holders' biodata,
-                                                  biometrics, and voting
-                                                  information. The voter's cards
-                                                  are expected to be much
-                                                  secured. In addition to the
-                                                  security features, it should
-                                                  fight against fraud and ensure
-                                                  transparent elections.
+                                                  SecureID Voters Card: The future in electoral documents with the ever evolving threats of electoral fraud, SecureID is the answer to secure electoral documents. SecureID's preferred solution of the voter's card is to allow each bona fide voter get a Secure voter's card encoded with the holders' biodata, biometrics, and voting information. The voter's cards are expected to be much secured. In addition to the security features, it should fight against fraud and ensure transparent elections.
+
                                                 </p>
+
+                                                <span>
+                                                  <h2>SOME CARD FEATURES</h2>
+
+                                                  <ul>
+                                                    <li>Our multilayer design incorporates security features by combining various technologies. The electoral cards offer 1st, 2nd and 3rd level security design features embedded in multiple layers in the card structure, making the card impossible to forge.</li>
+                                                    <li>The customised holographic laminates provide unique tamper-proof and anti-copy features which protect our cards against counterfeiting.</li>
+                                                    <li>Options for plastic durability: PET F, PC, PVC, can be used in producing the car</li>
+                                                    <li>High resolution colour printing produces brilliant colours up 8000 dpi that creates security design elements that cannot easily be scanned (anti-scan feature).</li>
+                                                    <li>Ultra Violet black light (UV) and micro text provides an effective 2nd level security requiring tools for verification.</li>
+                                                    <li>Ultra Violet black light (UV) and micro text provides an effective 2nd level security requiring tools for verification.</li>
+
+                                                  </ul>
+
+
+                                                  <br />
+
+                                                  <h2>SOME BENEFITS</h2>
+                                                  <li>We offer a comprehensive portfolio of solutions for efficient manufacturing, personalization; issuance, delivery and post-issuance management of Voter’s cards which will help government establish secure identification programs.</li>
+                                                  <li>As a pivotal Company in security printing and solutions, over the years SecureID has developed a thorough understanding of industry best practices and standards.</li>
+                                                  <li>Our solutions are easy to implement even in the most demanding environment.</li>
+                                                  <li>We also offer voting device hardware that perfectly integrates with our cards for ease of election.</li>
+                                                  <li>Our designs can accommodate progressive developments from new technologies amongst other changes.</li>
+                                                  <li>A solution for Nigeria by Nigerians</li>
+                                                  <li>Promotion of local content.</li>
+                                                  <li>Reduction in capital flight.</li>
+                                                </span>
                                               </div>
                                             </div>
                                           </div>
@@ -443,14 +456,35 @@ Our passports come in both Polycarbonate and Paper based ID page.
                                             <div className="wpb_text_column wpb_content_element  text-size-medium">
                                               <div className="wpb_wrapper">
                                                 <p>
-                                                  SecureID's innovative card
-                                                  designs can provide
-                                                  state-of-the-art, impossible
-                                                  to replicate immigration cards
-                                                  with the highest level of
-                                                  security features such as the
-                                                  Nigerian CERPAC card.
+                                                SecureID's innovative card designs can provide state-of-the-art, impossible to replicate immigration cards with the highest level of security features such as the Nigerian CERPAC card.
                                                 </p>
+
+                                                <span>
+                                                  <h2>SOME SECURITY FEATURES</h2>
+
+                                                  <ul>
+                                                    <li>Guilloche </li>
+                                                    <li>Micro text</li>
+                                                    <li>Rainbow printing </li>
+                                                    <li>Reversed Text</li>
+                                                    <li>OVI printing </li>
+                                                    <li>Chip (optional) </li>
+                                                    <li>Magstripe (optional)</li>
+                                                    <li>MRZ (optional)</li>
+                                                    <li>Front to registration </li>
+                                                    <li>Line width Modulation (optional)</li>
+                                                    <li>Aura Effects</li>
+                                                  </ul>
+
+                                                  <h2>SOME BENEFITS</h2>
+
+                                                  <ul>
+                                                  <li>Security designs which meets and exceeds current design concepts, such as hidden text, OVI, amongst others.</li>
+                                                  <li>We offer a wide variety of plastic substrates that support card life cycle duration of up to 15 years.</li>
+                                                  <li>No requirement for huge stock levels – our facility can store up to 50 million cards.</li>
+                                                  </ul>
+
+                                                </span>
                                               </div>
                                             </div>
                                           </div>
@@ -521,30 +555,24 @@ Our passports come in both Polycarbonate and Paper based ID page.
                                     <div className="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1487333607675">
                                       <div className="wpb_column vc_column_container vc_col-sm-4">
                                         <div className="vc_column-inner ">
-                                          <div className="wpb_wrapper">
-                                            <div className="mgt-header-block clearfix text-left text-black wpb_content_element  mgt-header-block-style-2 mgt-header-block-fontsize-medium mgt-header-texttransform-none mgt-header-block-4458008  vc_custom_1487761300471">
-                                              <h2 className="mgt-header-block-title text-font-weight-default">
-                                                Others
-                                              </h2>
-                                            </div>
-                                            <div className="wpb_text_column wpb_content_element  text-size-medium">
-                                              <div className="wpb_wrapper">
-                                                <p>
-                                                  In furtherance to the Federal
-                                                  and some State Ministry of
-                                                  Transport initiative and drive
-                                                  to modernize transportation,
-                                                  SecureID Limited has advanced
-                                                  a smartcard/contactless
-                                                  Electronic Ticket Based
-                                                  Automated Transport Fare
-                                                  Collection and Station Access
-                                                  Control solution to the
-                                                  transport sector.
-                                                </p>
-                                              </div>
-                                            </div>
+                                        <div className="wpb_wrapper">
+                                        <div className="mgt-icon-box wpb_content_element mgt-icon-box-right mgt-icon-box-icon-size-large mgt-icon-box-8670855 mgt-icon-font text-black  vc_custom_1487701807718">
+                                          <div className="mgt-icon-box-icon hvr-icon-wobble-horizontal">
+                                            
                                           </div>
+                                          <div className="mgt-icon-box-content">
+                                            <h2 className="text-font-weight-bold">
+                                            HEALTH CARD
+                                            </h2>
+                                           
+                                            <p>
+                                            SecureID Limited is offering a high security smart card solution to its customers, a complete set of flexible, personalized solutions. Controlling the end-to-end value chain, SecureID Limited offers relevant expertise under a single roof:
+                                            </p>
+
+                                          </div>
+                                          <div className="clearfix" />
+                                        </div>
+                                      </div>
                                         </div>
                                       </div>
                                       <div className="wpb_column vc_column_container vc_col-sm-4">
@@ -552,39 +580,17 @@ Our passports come in both Polycarbonate and Paper based ID page.
                                           <div className="wpb_wrapper">
                                             <div className="mgt-icon-box wpb_content_element mgt-icon-box-right mgt-icon-box-icon-size-large mgt-icon-box-8670855 mgt-icon-font text-black  vc_custom_1487701807718">
                                               <div className="mgt-icon-box-icon hvr-icon-wobble-horizontal">
-                                                <i className="mgt-font-icon vc_li vc_li-vallet" />
+                                                
                                               </div>
                                               <div className="mgt-icon-box-content">
-                                                <h5 className="text-font-weight-bold">
-                                                  Transport, Health, Military
-                                                  and Other related Card
-                                                </h5>
+                                                <h2 className="text-font-weight-bold">
+                                                DRIVERS LICENCE
+                                                </h2>
+                                              
                                                 <p>
-                                                  <strong>
-                                                    Our Solution will provide:
-                                                  </strong>
+                                                Our design incorporates security features by combining various technologies. The Drivers/Motorcycle Licence offer 1st, 2nd, and 3rd level security design features embedded in multiple layers in the card structure, making the card impossible to forge.
                                                 </p>
 
-                                                <p>
-                                                  Strong identification and
-                                                  authentication for patients
-                                                  and healthcare professionals,
-                                                  ability to verify benefits,
-                                                  expiry dates, multiple uses,
-                                                  are key features of microchip
-                                                  cards.
-                                                </p>
-
-                                                <p>
-                                                  Creation of personalized,
-                                                  online services, with "patient
-                                                  centric" focus with the usage
-                                                  of security features and
-                                                  capabilities of health care
-                                                  cards (identification number,
-                                                  PIN or biometric
-                                                  authentication).
-                                                </p>
                                               </div>
                                               <div className="clearfix" />
                                             </div>
@@ -610,6 +616,64 @@ Our passports come in both Polycarbonate and Paper based ID page.
                                         </div>
                                       </div>
                                     </div>
+
+                                    <span>
+                                      <h3>HEALTH CARD</h3>
+
+                                      <strong>CARD STRUCTURE & FEATURE</strong>
+                                      <ul>
+                                        <li>Card body design, security feature combination and durability tests. </li>
+                                        <li>In house development of secure embedded software and crypto libraries.</li>
+                                        <li>Development of personalization solutions and issuance services.</li>
+                                        <li>Development and deployment of enrolment and verification infrastructures.</li>
+                                        <li>Security application for both patient and health professionals</li>
+                                        <li>Security consulting around the healthcare smart card application.</li>
+                                      </ul>
+
+                                      <strong>SOME BENEFITS</strong>
+                                      Health cards have numerous benefits such as 
+                                      <ul>
+                                      <li>Using these health cards speeds up the transition to paperless, electronic procedures and data exchanges, which are also great catalysts for the modernization of systems. In terms of administration, the results obtained are impressive.</li>
+                                      <li>Card usage creates consistent databases, with the automatic reading of data, and the confidential local storage and update of additional information such as blood groups, allergies, chronic disease and associated treatments.</li>
+                                      <li>Strong identification and authentication for patients and healthcare professionals, ability to verify benefits, expiry dates, multiple uses, are key features of microchip cards.</li>
+                                      <li>Creation of personalized, online services, with “patient centric” focus with the usage of security features and capabilities of health care cards (identification number, PIN or biometric authentication).</li>
+                                      <li>The smart card enables the ultimate privacy protection by filtering access to sensitive data – only authorized people can read it, such as the card holder and their doctor. </li>
+                                      <li>By identifying the holder and his/her affiliation to an organization, and verifying his/her rights, this card acts as an essential component of the IT system for the creation and secure transmission of standardized medical expense claims.</li>
+                                      <li>Dematerialization of the medical prescription from paper to electronic format helps organizations reduce costs and increase efficiency. Smart card solutions enable the pre-authorization of the health transaction by storing the validity of the patient’s right.</li>
+                                      </ul>
+
+
+
+                                      <br/><br/>
+
+                                      <h3>DRIVERS LICENCE</h3>
+
+                                      <strong>CARD STRUCTURE</strong>
+                                      <ul>
+
+                                        <li>Options for plastic durability: PET F, PC, PVC can be used in producing the card.</li>
+                                        <li>The customised holographic laminates provide unique tamper-proof and anti-copy features which protect our cards against counterfeiting.</li>
+                                        <li>High resolution colour printing produces brilliant colours up 8000 dpi that creates security design elements that cannot easily be scanned (anti-scan feature).</li>
+                                        <li>Machine readable 2D or 1ZD barcode feature, which can store different types and amount of data, are also available.</li>
+
+                                      </ul>
+
+                                      <strong>SOME SECURITY FEATURES</strong>
+                                      <ul>
+                                      <li>Guilloche </li>
+                                      <li>Micro text</li>
+                                      <li>Rainbow printing</li>
+                                      <li>Reversed text</li>
+                                      <li>Ultra Violet Black Light (UV)</li>
+                                      <li>Contact chip, Contactless chip (optional)</li>
+                                      <li>Magstripe (optional)</li>
+                                      <li>MRZ (optional)</li>
+                                      <li>Front to registration</li>
+                                      <li>Line width modulation (optional)</li>
+                                      <li>Aura Effects</li>
+                                      </ul>
+
+                                    </span>
                                   </div>
                                 </div>
                               </div>
