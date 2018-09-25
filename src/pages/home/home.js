@@ -365,7 +365,7 @@ const Home = () => (
                               data-title="Fast"
                             >
                               <img
-                                src="assets/img/slider/slider1.jpg"
+                                src="assets/img/slider/digital.jpg"
                                 alt=""
                                 title="fun-people-young"
                                 width="1800"
@@ -544,15 +544,7 @@ const Home = () => (
                           and Special Projects, Finance Sector, Telecoms Sector.
                         </div>
                       </div>
-                      <div className="mgt-button-wrapper mgt-button-wrapper-align-right mgt-button-wrapper-display-newline mgt-button-top-margin-false mgt-button-right-margin-false mgt-button-round-edges-small ">
-                        <a
-                          className="btn hvr-float mgt-button-icon-true mgt-button mgt-style-solid mgt-size-normal mgt-align-right mgt-display-newline mgt-text-size-normal mgt-button-icon-separator- mgt-button-icon-position-right text-font-weight-default mgt-text-transform-none mgt-button-10665379"
-                          href="/"
-                        >
-                          See all features
-                          <i className="entypo-icon entypo-icon-right-open" />
-                        </a>
-                      </div>
+                     
                     </div>
                   </div>
                 </div>
@@ -595,7 +587,7 @@ const Home = () => (
                     <div className="mgt-button-wrapper mgt-button-wrapper-align-center mgt-button-wrapper-display-inline mgt-button-top-margin-false mgt-button-right-margin-false mgt-button-round-edges-small  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp">
                       <a
                         className="btn hvr-icon-wobble-horizontal mgt-button-icon-true mgt-button mgt-style-borderedgrey mgt-size-normal mgt-align-center mgt-display-inline mgt-text-size-small mgt-button-icon-separator-true mgt-button-icon-position-right text-font-weight-default mgt-text-transform-none"
-                        href="/"
+                        href="/about"
                       >
                         Read more
                         <i className="entypo-icon entypo-icon-right-open" />
@@ -621,7 +613,7 @@ const Home = () => (
                     </div>
                     <div className="mgt-header-block clearfix text-left text-black wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_content_element  mgt-header-block-style-2 mgt-header-block-fontsize-regular mgt-header-texttransform-subheader mgt-header-block-17062891 ">
                       <h3 className="mgt-header-block-title text-font-weight-default">
-                        Identity Solution
+                        Our Solution
                       </h3>
                       <div className="mgt-header-line mgt-header-line-margin-small" />
                     </div>
@@ -640,7 +632,7 @@ const Home = () => (
                     <div className="mgt-button-wrapper mgt-button-wrapper-align-center mgt-button-wrapper-display-inline mgt-button-top-margin-false mgt-button-right-margin-false mgt-button-round-edges-small  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp">
                       <a
                         className="btn hvr-icon-wobble-horizontal mgt-button-icon-true mgt-button mgt-style-borderedgrey mgt-size-normal mgt-align-center mgt-display-inline mgt-text-size-small mgt-button-icon-separator-true mgt-button-icon-position-right text-font-weight-default mgt-text-transform-none"
-                        href="/"
+                        href="/banking"
                       >
                         Read more
                         <i className="entypo-icon entypo-icon-right-open" />
@@ -678,7 +670,7 @@ const Home = () => (
                                 <a
                                   className="btn hvr-grow mgt-button-icon-true mgt-button mgt-style-solid mgt-size-normal mgt-align-center mgt-display-newline mgt-text-size-normal mgt-button-icon-separator- mgt-button-icon-position-right text-font-weight-default mgt-text-transform-none"
                                   rel="lightbox"
-                                  href="services.html"
+                                  href="/digital"
                                 >
                                   Learn More
                                   <i className="entypo-icon entypo-icon-play" />
@@ -766,7 +758,7 @@ const Home = () => (
                               </div>
                               <div className="mgt-icon-box-content">
                                 <h5 className="text-font-weight-bold">
-                                  Identity Solution
+                                  Our Solution
                                 </h5>
 
                                 <p>

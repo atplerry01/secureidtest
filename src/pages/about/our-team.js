@@ -13,7 +13,7 @@ class OurTeam extends Component {
   render() {
     return (
       <div>
-        <SubHeader title="Our Team" />
+        <SubHeader title="Management Team" />
 
         <div className="content-block  stick-to-footer">
           <div className="page-container container">
@@ -28,8 +28,10 @@ class OurTeam extends Component {
                           data-vc-action="collapse"
                         >
                           <div className="vc_general vc_tta vc_tta-tabs vc_tta-color-grey vc_tta-style-outline vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-gap-10 vc_tta-o-no-fill vc_tta-tabs-position-top vc_tta-controls-align-center">
-                            <div className="vc_tta-tabs-container">
+                              <div className="vc_tta-tabs-container">
+
                               <ul className="vc_tta-tabs-list">
+
                                 <li
                                   className="vc_tta-tab vc_active"
                                   data-vc-tab
@@ -44,6 +46,7 @@ class OurTeam extends Component {
                                     </span>
                                   </a>
                                 </li>
+                                
                                 <li className="vc_tta-tab" data-vc-tab>
                                   <a
                                     href="#ceo"
@@ -51,7 +54,7 @@ class OurTeam extends Component {
                                     data-vc-container=".vc_tta"
                                   >
                                     <span className="vc_tta-title-text">
-                                      CEO
+                                      Chief Executive Officer
                                     </span>
                                   </a>
                                 </li>
@@ -63,7 +66,7 @@ class OurTeam extends Component {
                                     data-vc-container=".vc_tta"
                                   >
                                     <span className="vc_tta-title-text">
-                                      COO
+                                      Chieft Operating Officer
                                     </span>
                                   </a>
                                 </li>
@@ -75,19 +78,7 @@ class OurTeam extends Component {
                                     data-vc-container=".vc_tta"
                                   >
                                     <span className="vc_tta-title-text">
-                                      CFO
-                                    </span>
-                                  </a>
-                                </li>
-
-                                <li className="vc_tta-tab" data-vc-tab>
-                                  <a
-                                    href="#fc"
-                                    data-vc-tabs
-                                    data-vc-container=".vc_tta"
-                                  >
-                                    <span className="vc_tta-title-text">
-                                      FC
+                                      Chief Financial Officer
                                     </span>
                                   </a>
                                 </li>
@@ -99,7 +90,7 @@ class OurTeam extends Component {
                                     data-vc-container=".vc_tta"
                                   >
                                     <span className="vc_tta-title-text">
-                                      Head Sales
+                                      Director Of Sales & Marketing
                                     </span>
                                   </a>
                                 </li>
@@ -116,6 +107,30 @@ class OurTeam extends Component {
                                   </a>
                                 </li>
 
+                               
+                              </ul>
+                            
+                              </div>
+
+                              <div className="vc_tta-tabs-container">
+
+                              <ul className="vc_tta-tabs-list">
+
+                                <li
+                                  className="vc_tta-tab vc_active"
+                                  data-vc-tab
+                                >
+                                  <a
+                                    href="#all"
+                                    data-vc-tabs
+                                    data-vc-container=".vc_tta"
+                                  >
+                                    <span className="vc_tta-title-text">
+                                      Our Team
+                                    </span>
+                                  </a>
+                                </li>
+                           
                                 <li className="vc_tta-tab" data-vc-tab>
                                   <a
                                     href="#head-it"
@@ -123,7 +138,7 @@ class OurTeam extends Component {
                                     data-vc-container=".vc_tta"
                                   >
                                     <span className="vc_tta-title-text">
-                                      Head IT
+                                      Head Of Technical Operations
                                     </span>
                                   </a>
                                 </li>
@@ -135,10 +150,11 @@ class OurTeam extends Component {
                                     data-vc-container=".vc_tta"
                                   >
                                     <span className="vc_tta-title-text">
-                                      Head, Operations
+                                      Head Of Operations
                                     </span>
                                   </a>
                                 </li>
+                                
                                 <li className="vc_tta-tab" data-vc-tab>
                                   <a
                                     href="#head-digital"
@@ -146,23 +162,15 @@ class OurTeam extends Component {
                                     data-vc-container=".vc_tta"
                                   >
                                     <span className="vc_tta-title-text">
-                                      Head, Digital
+                                      Head Of Digital Solutions
                                     </span>
                                   </a>
                                 </li>
-                                <li className="vc_tta-tab" data-vc-tab>
-                                  <a
-                                    href="#head-cs"
-                                    data-vc-tabs
-                                    data-vc-container=".vc_tta"
-                                  >
-                                    <span className="vc_tta-title-text">
-                                      Head, CS
-                                    </span>
-                                  </a>
-                                </li>
+                               
                               </ul>
-                            </div>
+                            
+                              </div>
+
                             <div className="vc_tta-panels-container">
                               <div className="vc_tta-panels">
                                 <div
@@ -2182,7 +2190,8 @@ class OurTeam extends Component {
                                 </div>
                               </div>
                             </div>
-                          </div>
+                          
+                            </div>
                         </div>
                       </div>
                     </div>
@@ -2194,6 +2203,128 @@ class OurTeam extends Component {
             </div>
           </div>
         </div>
+
+        
+{/*
+   <div className="vc_tta-tabs-container">
+
+                              <ul className="vc_tta-tabs-list">
+
+                                <li
+                                  className="vc_tta-tab vc_active"
+                                  data-vc-tab
+                                >
+                                  <a
+                                    href="#all"
+                                    data-vc-tabs
+                                    data-vc-container=".vc_tta"
+                                  >
+                                    <span className="vc_tta-title-text">
+                                      Our Team
+                                    </span>
+                                  </a>
+                                </li>
+                                
+                                <li className="vc_tta-tab" data-vc-tab>
+                                  <a
+                                    href="#ceo"
+                                    data-vc-tabs
+                                    data-vc-container=".vc_tta"
+                                  >
+                                    <span className="vc_tta-title-text">
+                                      CEO
+                                    </span>
+                                  </a>
+                                </li>
+
+                                <li className="vc_tta-tab" data-vc-tab>
+                                  <a
+                                    href="#coo"
+                                    data-vc-tabs
+                                    data-vc-container=".vc_tta"
+                                  >
+                                    <span className="vc_tta-title-text">
+                                      COO
+                                    </span>
+                                  </a>
+                                </li>
+
+                                <li className="vc_tta-tab" data-vc-tab>
+                                  <a
+                                    href="#cfo"
+                                    data-vc-tabs
+                                    data-vc-container=".vc_tta"
+                                  >
+                                    <span className="vc_tta-title-text">
+                                      CFO
+                                    </span>
+                                  </a>
+                                </li>
+
+                                <li className="vc_tta-tab" data-vc-tab>
+                                  <a
+                                    href="#head-sales"
+                                    data-vc-tabs
+                                    data-vc-container=".vc_tta"
+                                  >
+                                    <span className="vc_tta-title-text">
+                                      Head Sales
+                                    </span>
+                                  </a>
+                                </li>
+
+                                <li className="vc_tta-tab" data-vc-tab>
+                                  <a
+                                    href="#head-admin"
+                                    data-vc-tabs
+                                    data-vc-container=".vc_tta"
+                                  >
+                                    <span className="vc_tta-title-text">
+                                      Head HR/Admin
+                                    </span>
+                                  </a>
+                                </li>
+
+                                <li className="vc_tta-tab" data-vc-tab>
+                                  <a
+                                    href="#head-it"
+                                    data-vc-tabs
+                                    data-vc-container=".vc_tta"
+                                  >
+                                    <span className="vc_tta-title-text">
+                                      Head IT
+                                    </span>
+                                  </a>
+                                </li>
+
+                                <li className="vc_tta-tab" data-vc-tab>
+                                  <a
+                                    href="#head-operations"
+                                    data-vc-tabs
+                                    data-vc-container=".vc_tta"
+                                  >
+                                    <span className="vc_tta-title-text">
+                                      Head, Operations
+                                    </span>
+                                  </a>
+                                </li>
+                                
+                                <li className="vc_tta-tab" data-vc-tab>
+                                  <a
+                                    href="#head-digital"
+                                    data-vc-tabs
+                                    data-vc-container=".vc_tta"
+                                  >
+                                    <span className="vc_tta-title-text">
+                                      Head, Digital
+                                    </span>
+                                  </a>
+                                </li>
+                               
+                              </ul>
+                            
+                              </div>
+*/}
       </div>
     );
   }

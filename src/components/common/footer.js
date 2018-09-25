@@ -8,7 +8,7 @@ const Footer = () => (
         data-style="background-image: url(assets/img/footer-image-back.jpg);"
       >
         <div className="footer-sidebar sidebar container footer-sidebar-col-4">
-          <ul id="footer-sidebar" className="clearfix">
+          <ul id="footer-sidebar" className="clearfix" style={{ padding: 0}}>
             <li id="text-2" className="widget widget_text">
               <div className="textwidget">
                 <img
@@ -27,44 +27,40 @@ const Footer = () => (
               </div>
             </li>
             <li id="nav_menu-3" className="widget widget_nav_menu">
-              <h2 className="widgettitle">Navigation</h2>
+              <h2 className="widgettitle">Products & Services</h2>
               <div className="menu-footermenu-1-container">
                 <ul id="menu-footermenu-1" className="menu">
                   <li
                     id="menu-item-297"
                     className="menu-item menu-item-type-custom menu-item-object-custom menu-item-297"
                   >
-                    <a href="/">Our services</a>
+                    <a href="/banking">Banking & Payments</a>
                   </li>
                   <li
                     id="menu-item-298"
                     className="menu-item menu-item-type-custom menu-item-object-custom menu-item-298"
                   >
-                    <a href="/">Perso & Fulfilment</a>
+                    <a href="/governments">Governments</a>
                   </li>
                   <li
                     id="menu-item-299"
                     className="menu-item menu-item-type-custom menu-item-object-custom menu-item-299"
                   >
-                    <a href="/">Strategy and ideas</a>
+                    <a href="/digital">Digital Solutions</a>
                   </li>
                   <li
                     id="menu-item-300"
                     className="menu-item menu-item-type-custom menu-item-object-custom menu-item-300"
                   >
-                    <a href="/">About company</a>
+                    <a href="/telecoms">TeleCommunications</a>
                   </li>
-                  <li
-                    id="menu-item-301"
-                    className="menu-item menu-item-type-custom menu-item-object-custom menu-item-301"
-                  >
-                    <a href="/">Blog and events</a>
-                  </li>
+                 
                 </ul>
               </div>
             </li>
             <li id="nav_menu-2" className="widget widget_nav_menu">
-              <h2 className="widgettitle">About us</h2>
+              <h2 className="widgettitle">Services</h2>
+              
               <div className="menu-footermenu-simple-container">
                 <ul id="menu-footermenu-simple" className="menu">
                   <li
@@ -83,7 +79,7 @@ const Footer = () => (
                     id="menu-item-304"
                     className="menu-item menu-item-type-custom menu-item-object-custom menu-item-304"
                   >
-                    <a href="/">Contact us</a>
+                    <a href="/">Blog & Events</a>
                   </li>
                   <li
                     id="menu-item-305"
@@ -166,6 +162,20 @@ const Footer = () => (
               </div>
             </li>
           </ul>
+        
+          <div class="mgt-signup-block clearfix white-text wpb_content_element" style={{ padding: 10}}>
+            
+            <div class="mgt-signup-block-form">
+            <form target="_blank" method="post" action="" style={{float: "right"}}>
+            <label><h3>Newsletter: &nbsp; </h3> </label>
+            <input type="email" value="" name="EMAIL" class="required email" 
+            placeholder="Input your email" id="mce-EMAIL" />
+            <input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button mgt-button" />
+            </form>
+            </div>
+          </div>
+
+
         </div>
       </div>
       <footer className="footer-style-dark footer-col-2">
@@ -178,27 +188,27 @@ const Footer = () => (
               <div className="menu-footermenu-simple-container">
                 <ul id="menu-footermenu-simple-1" className="footer-menu">
                   <li className="menu-item menu-item-type-custom menu-item-object-custom menu-item-302">
-                    <a href="http://wp.magnium-themes.com/barrel/barrel-1/about-classic/">
-                      Our services
+                    <a href="/banking">
+                      Product & Services
                     </a>
                   </li>
                   <li className="menu-item menu-item-type-custom menu-item-object-custom menu-item-303">
-                    <a href="http://wp.magnium-themes.com/barrel/barrel-1/about-classic/">
+                    <a href="/">
                       Projects
                     </a>
                   </li>
                   <li className="menu-item menu-item-type-custom menu-item-object-custom menu-item-304">
-                    <a href="http://wp.magnium-themes.com/barrel/barrel-1/about-classic/">
+                    <a href="/contact-us">
                       Contact us
                     </a>
                   </li>
                   <li className="menu-item menu-item-type-custom menu-item-object-custom menu-item-305">
-                    <a href="http://wp.magnium-themes.com/barrel/barrel-1/about-classic/">
+                    <a href="/">
                       Disclaimer
                     </a>
                   </li>
                   <li className="menu-item menu-item-type-custom menu-item-object-custom menu-item-306">
-                    <a href="http://wp.magnium-themes.com/barrel/barrel-1/about-classic/">
+                    <a href="/">
                       Privacy policy
                     </a>
                   </li>

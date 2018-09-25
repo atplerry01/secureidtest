@@ -28,3 +28,7 @@
     padding-top: 30px !important;
     padding-bottom: 20px !important;
 }
+
+.sidebar.footer-sidebar ul li {
+    margin-bottom: 10px;
+}
