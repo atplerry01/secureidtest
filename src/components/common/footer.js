@@ -162,7 +162,8 @@ const Footer = () => (
               </div>
             </li>
           </ul>
-        
+        {/*
+
           <div class="mgt-signup-block clearfix white-text wpb_content_element" style={{ padding: 10}}>
             
             <div class="mgt-signup-block-form">
@@ -174,7 +175,7 @@ const Footer = () => (
             </form>
             </div>
           </div>
-
+        */}
 
         </div>
       </div>

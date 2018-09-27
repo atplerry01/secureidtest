@@ -210,8 +210,7 @@ class OurTeam extends Component {
                                                             <div className="mgt-promo-block-content va-top">
                                                               <div className="mgt-promo-block-content-inside vc_custom_1489502648895">
                                                                 <h2>
-                                                                  Mrs. Kofo
-                                                                  Akinkugbe
+                                                                  MRS. KOFO AKINKUGBE
                                                                 </h2>
                                                                 <p>
                                                                   <span className="text-color-theme ">
@@ -772,7 +771,7 @@ class OurTeam extends Component {
                                         <div className="vc_column-inner ">
                                           <div className="wpb_wrapper">
                                             <div className="mgt-header-block clearfix text-left text-black wpb_content_element  mgt-header-block-style-2 mgt-header-block-fontsize-medium mgt-header-texttransform-none mgt-header-block-58442946  vc_custom_1487761220473">
-                                              <h2>Mrs. Kofo Akinkugbe</h2>
+                                              <h2>Mrs. KOFO AKINKUGBE</h2>
                                               <p>
                                                 <span className="text-color-theme ">
                                                   Managing Director / CEO
@@ -909,7 +908,7 @@ class OurTeam extends Component {
                                               <div className="mgt-promo-block-wrapper  mgt-promo-block-shadow">
                                                 <div
                                                   className=" mgt-promo-block animated black-text text-color-hover-white cover-image no-darken mgt-promo-block-81008001"
-                                                  data-style="background-color: #f5f5f5;background-image: url(assets/img/team/francis-b2.jpg);background-repeat: no-repeat; height: 650px;"
+                                                  data-style="background-color: #f5f5f5;background-image: url(assets/img/team/4.jpg);background-repeat: no-repeat; height: 650px;"
                                                 >
                                                   <div className="mgt-promo-block-content mgt-hide-button va-middle" />
                                                 </div>
@@ -1628,7 +1627,7 @@ class OurTeam extends Component {
                                               <div className="mgt-promo-block-wrapper  mgt-promo-block-shadow">
                                                 <div
                                                   className=" mgt-promo-block animated black-text text-color-hover-white cover-image no-darken mgt-promo-block-81008001"
-                                                  data-style="background-color: #f5f5f5;background-image: url(assets/img/team/bami-b.jpg);background-repeat: no-repeat; height: 650px;"
+                                                  data-style="background-color: #f5f5f5;background-image: url(assets/img/team/2.jpg);background-repeat: no-repeat; height: 650px;"
                                                 >
                                                   <div className="mgt-promo-block-content mgt-hide-button va-middle" />
                                                 </div>
@@ -1773,7 +1772,7 @@ class OurTeam extends Component {
                                               <div className="mgt-promo-block-wrapper  mgt-promo-block-shadow">
                                                 <div
                                                   className=" mgt-promo-block animated black-text text-color-hover-white cover-image no-darken mgt-promo-block-81008001"
-                                                  data-style="background-color: #f5f5f5;background-image: url(assets/img/team/evans-b.jpg);background-repeat: no-repeat; height: 650px;"
+                                                  data-style="background-color: #f5f5f5;background-image: url(assets/img/team/1.jpg);background-repeat: no-repeat; height: 650px;"
                                                 >
                                                   <div className="mgt-promo-block-content mgt-hide-button va-middle" />
                                                 </div>
@@ -1930,7 +1929,7 @@ class OurTeam extends Component {
                                               <div className="mgt-promo-block-wrapper  mgt-promo-block-shadow">
                                                 <div
                                                   className=" mgt-promo-block animated black-text text-color-hover-white cover-image no-darken mgt-promo-block-81008001"
-                                                  data-style="background-color: #f5f5f5;background-image: url(assets/img/team/stanley-b.jpg);background-repeat: no-repeat; height: 650px;"
+                                                  data-style="background-color: #f5f5f5;background-image: url(assets/img/team/3b.jpg);background-repeat: no-repeat; height: 650px;"
                                                 >
                                                   <div className="mgt-promo-block-content mgt-hide-button va-middle" />
                                                 </div>
