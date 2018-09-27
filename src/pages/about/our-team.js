@@ -32,21 +32,7 @@ class OurTeam extends Component {
 
                               <ul className="vc_tta-tabs-list">
 
-                                <li
-                                  className="vc_tta-tab vc_active"
-                                  data-vc-tab
-                                >
-                                  <a
-                                    href="#all"
-                                    data-vc-tabs
-                                    data-vc-container=".vc_tta"
-                                  >
-                                    <span className="vc_tta-title-text">
-                                      Our Team
-                                    </span>
-                                  </a>
-                                </li>
-                                
+                             
                                 <li className="vc_tta-tab" data-vc-tab>
                                   <a
                                     href="#ceo"
@@ -115,21 +101,6 @@ class OurTeam extends Component {
                               <div className="vc_tta-tabs-container">
 
                               <ul className="vc_tta-tabs-list">
-
-                                <li
-                                  className="vc_tta-tab vc_active"
-                                  data-vc-tab
-                                >
-                                  <a
-                                    href="#all"
-                                    data-vc-tabs
-                                    data-vc-container=".vc_tta"
-                                  >
-                                    <span className="vc_tta-title-text">
-                                      Our Team
-                                    </span>
-                                  </a>
-                                </li>
                            
                                 <li className="vc_tta-tab" data-vc-tab>
                                   <a

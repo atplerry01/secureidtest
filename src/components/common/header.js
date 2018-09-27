@@ -74,12 +74,12 @@ class Header extends Component {
                               id="mgt-menu-item-1764"
                               className="menu-item menu-item-type-post_type menu-item-object-page"
                             >
-                              <a href="/our-team">
+                              <a href="/our-team#ceo">
                                 <i
                                   className="fa fa-angle-right"
                                   aria-hidden="true"
                                 />
-                                Our Team
+                                Management Team
                               </a>
                             </li>
                             {/*

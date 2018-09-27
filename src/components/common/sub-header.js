@@ -10,7 +10,7 @@ class SubHeader extends Component {
       <div className="content-block  stick-to-footer">
         <div
           className="container-bg container-fluid"
-          data-style="background-color:#036; background-image: url(assets/img/themes/sub-header.jpg); 
+          data-style="background-color:#036; background-image: url(assets/img/themes/sub-headerX.jpg); 
           background-repeat: no-repeat; background-position: 50% 50%; width:100%"
         >
           <div className="container-bg-overlay">
